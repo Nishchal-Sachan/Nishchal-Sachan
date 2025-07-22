@@ -43,8 +43,6 @@
 </p>
 
 
- ##
- ![snake gif](https://github.com/Nishchal-Sachan/Nishchal-Sachan/blob/output/github-snake-dark.svg)
 
 <p align="center">
 
