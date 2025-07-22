@@ -35,16 +35,20 @@
 ---
 
 ## 🚀 GitHub Stats & Activity
-
+## 📊 My Github Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NishchalSachan&show_icons=true&theme=react&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NishchalSachan&theme=react&hide_border=true" width="48%" />
+ <a href="https://https://github.com/Nishchal-Sachan/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nishchal-Sachan streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishchal-Sachan&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>  <a href="https://github.com/Nishchal-Sachan/github-readme-stats"><img alt="Shani soni Github Stats" src="https://github-readme-stats.vercel.app/api?username=Nishchal-Sachan&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> <br/>   <a href="https://github.com/Nishchal-Sachan/github-readme-stats"><img alt="Nishchal-Sachan" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nishchal-Sachan&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NishchalSachan&layout=compact&theme=react&hide_border=true" width="40%" />
-</p>
 
+ ##
+ ![snake gif](https://github.com/Nishchal-Sachan/Nishchal-Sachan/blob/output/github-snake-dark.svg)
+
+<p align="center">
+
+ </p>
 ---
 
 ## 🌍 Let's Connect
