@@ -30,7 +30,7 @@
 |--------|-------------|------------|
 | [🔐 Full-Stack Auth System](https://github.com/your-repo-link) | JWT-based login system with protected routes & RBAC | React, Tailwind, Node, MongoDB |
 | [🎯 GSSoC Contribution: Foodie](https://github.com/Abhishek2634/Foodie) | Improving UI/UX & fixing bugs for open source food delivery app | React, CSS, Git |
-| [💼 IT Consulting Startup Site](https://github.com/your-repo-link) | Professional client-side app for a startup with Dark/Light mode | React, TailwindCSS |
+| [💼 IT Consulting Startup Site](https://github.com/Nishchal-Sachan/ItCunsultancy) | Professional client-side app for a startup with Dark/Light mode | React, TailwindCSS |
 
 ---
 
